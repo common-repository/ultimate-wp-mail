@@ -1,0 +1,952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate WP Mail\n"
+"POT-Creation-Date: 2021-06-08 16:17-0400\n"
+"PO-Revision-Date: 2021-06-08 16:17-0400\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ewd-uwpm-templates/admin-email-preview.php:4
+msgid "Close Preview"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:5
+msgid "1-Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:6
+msgid "2-Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:7
+msgid "3-Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:8
+msgid "4-Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:9
+msgid "1:2 Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:10
+msgid "2:1 Column"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:15
+msgid " Full Screen Editor"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-header-bar.php:19
+msgid "Exit Full Screen Editor"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-section-editor.php:7
+msgid "Advanced"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-section-editor.php:10
+#: includes/AdminEmailLists.class.php:183
+msgid "Save"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:11
+msgid "Save email first to be able to track opens and clicks"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:16
+msgid "Send Now"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:17
+msgid "Send Later"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:43
+msgid "Email User"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:57
+msgid " Users"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:62
+msgid "Automatically Created Lists"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:63
+msgid "Select a list..."
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:71
+msgid "Email User List"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:81
+msgid "Email All Users"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:91
+msgid "Send Test Email"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:103
+msgid "Interest Lists"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:109
+msgid "WooCommerce Lists"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:121
+#: ewd-uwpm-templates/subscription-interest-post-categories.php:4
+#: includes/Settings.class.php:323
+msgid "Post Categories"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:142
+#: ewd-uwpm-templates/subscription-interest-uwpm-categories.php:4
+#: includes/CustomPostTypes.class.php:79 includes/CustomPostTypes.class.php:89
+msgid "Email Categories"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:163 includes/Settings.class.php:325
+msgid "WooCommerce Categories"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:187
+msgid "All Previous Purchasers"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:191
+msgid "Previous Purchasers of:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:215
+msgid "Previous Purchasers of Product in: "
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-mail.php:230
+msgid "Send Email to Selected Groups"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-results.php:6
+#: includes/AdminEmailLists.class.php:139
+msgid "Close"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-results.php:14
+msgid "Receiving Email Address:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-send-results.php:26
+msgid "Send Test E-mail"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:5
+msgid "Styling Options"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:7
+msgid "Content Alignment:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:12
+msgid "Left"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:13
+msgid "Center"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:14
+msgid "Right"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:22
+msgid "Max Email Width:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:27
+msgid "Email Background Color:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:32
+msgid "Body Background Color:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:37
+msgid "Blocks Background Color:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:42
+msgid " Blocks Border:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-styling-options.php:47
+msgid "Styling settings will only display in emails after saving!"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:4
+msgid "Start building with an email template:"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:9
+msgid "Newsletter"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:14
+msgid "Product Showcase"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:19
+msgid "Thank You"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:24
+msgid "Promotion/Discount"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:29
+msgid "Follow-Up Email"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:34
+msgid "Tutorial/Help for Product/Service"
+msgstr ""
+
+#: ewd-uwpm-templates/admin-template-options.php:42
+msgid "Or start building an email manually using the buttons at the top."
+msgstr ""
+
+#: ewd-uwpm-templates/subscription-interest-login.php:6
+msgid "Login"
+msgstr ""
+
+#: ewd-uwpm-templates/subscription-interest-selections.php:16
+#: includes/Settings.class.php:466 views/View.class.php:123
+msgid "Subscribe"
+msgstr ""
+
+#: ewd-uwpm-templates/subscription-interest-woocommerce-categories.php:4
+msgid "Product Categories"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:63
+msgid "Email Lists"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:71
+msgid "Create lists of WordPress users that you can send specific emails to."
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:72
+msgid ""
+"There are also default lists that you can email, depending on the "
+"integrations you have turned on (ex. all users who previously made a "
+"purchase through WooCommerce)"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:80 includes/AdminEmailLists.class.php:94
+msgid "List Name"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:81 includes/AdminEmailLists.class.php:100
+msgid "Number of Users"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:82 includes/AdminEmailLists.class.php:105
+#: includes/Dashboard.class.php:128
+#: includes/WP_List_Table.UserStatsTable.class.php:376
+msgid "Emails Sent"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:83
+msgid "Last Email Sent"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:111
+msgid "Last Send Date"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:117 includes/Settings.class.php:396
+msgid "Delete"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:125
+msgid "&plus;&nbsp;ADD"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:130
+msgid "Update Email Lists"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:142
+msgid "List name: "
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:150
+#: includes/AdminEmailLists.class.php:165
+msgid "Add Users"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:171
+msgid "Current Users"
+msgstr ""
+
+#: includes/AdminEmailLists.class.php:175
+msgid "Remove Users"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:73
+msgid "User Statistics"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:121 includes/AdminUserStats.class.php:182
+msgid "Email Sent"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:125 includes/AdminUserStats.class.php:186
+msgid "Email Opened?"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:129 includes/AdminUserStats.class.php:190
+#: includes/WP_List_Table.UserStatsTable.class.php:378
+msgid "Links Clicked"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:133 includes/AdminUserStats.class.php:194
+msgid "Send Date/Time"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:151
+msgid "Yes"
+msgstr ""
+
+#: includes/AdminUserStats.class.php:151
+msgid "No"
+msgstr ""
+
+#: includes/Ajax.class.php:64 includes/Notifications.class.php:781
+msgid "Email successfully sent to "
+msgstr ""
+
+#: includes/Ajax.class.php:64 includes/Notifications.class.php:784
+msgid "Email failed to send"
+msgstr ""
+
+#: includes/Ajax.class.php:174
+msgid "Interests successfully updated."
+msgstr ""
+
+#: includes/Blocks.class.php:51
+msgid "Ultimate WP Mail"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:35 includes/CustomPostTypes.class.php:37
+#: includes/CustomPostTypes.class.php:38 includes/Dashboard.class.php:121
+#: ultimate-wp-mail.php:316
+msgid "Emails"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:36 includes/Settings.class.php:420
+msgid "Email"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:39 ultimate-wp-mail.php:317
+msgid "Add New"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:40
+msgid "Add New Email"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:41
+msgid "Edit Email"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:42
+msgid "New Email"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:43
+msgid "View Email"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:44
+msgid "Search Emails"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:45
+msgid "No Emails found"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:46
+msgid "No Emails found in trash"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:47
+msgid "All Emails"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:80
+msgid "Email Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:81
+msgid "Search Email Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:82
+msgid "All Email Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:83
+msgid "Parent Email Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:84
+msgid "Parent Email Category:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:85
+msgid "Edit Email Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:86
+msgid "Update Email Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:87
+msgid "Add New Email Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:88
+msgid "New Email Category Name"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:207
+msgid "Previous Email Sends"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:214
+msgid "Send Time"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:215
+msgid "Send Type"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:216
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:217
+msgid "Successful Sends"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:218
+msgid "Number of Opens"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:219
+msgid "Number of Links Clicked"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:235
+msgid "All Users"
+msgstr ""
+
+#: includes/Dashboard.class.php:89 includes/Dashboard.class.php:113
+msgid "Get Support"
+msgstr ""
+
+#: includes/Dashboard.class.php:95
+msgid "YouTube Tutorials"
+msgstr ""
+
+#: includes/Dashboard.class.php:101
+msgid "Plugin FAQs"
+msgstr ""
+
+#: includes/Dashboard.class.php:107
+msgid "Documentation"
+msgstr ""
+
+#: includes/Dashboard.class.php:126
+msgid "Title"
+msgstr ""
+
+#: includes/Dashboard.class.php:127
+msgid "Created Date"
+msgstr ""
+
+#: includes/Dashboard.class.php:133
+msgid "No emails to display yet. Create an email for it to be displayed here."
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:58
+msgid "Quick Feedback"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:59
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate WP Mail:"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:74
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:75
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:92
+msgid "Welcome to Ultimate WP Mail"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:93
+msgid ""
+"Thanks for choosing Ultimate WP Mail! The following will show you how you "
+"can use the plugin to create emails, send them based on user interests or "
+"interactions, and track email sends, opens and links clicked."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:97
+msgid "Getting Started"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:104
+msgid "Go to Settings"
+msgstr ""
+
+#: includes/Notifications.class.php:604
+msgid "Email has been scheduled to send at "
+msgstr ""
+
+#: includes/Notifications.class.php:604
+msgid " server timezone"
+msgstr ""
+
+#: includes/ReviewAsk.class.php:57
+msgid "Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:48
+msgid "manage_options"
+msgstr ""
+
+#: includes/Settings.class.php:52 includes/Settings.class.php:477
+#: views/View.class.php:124
+msgid "Unsubscribe"
+msgstr ""
+
+#: includes/Settings.class.php:67
+msgid "On Registration"
+msgstr ""
+
+#: includes/Settings.class.php:68
+msgid "When Profile Updated"
+msgstr ""
+
+#: includes/Settings.class.php:69
+msgid "When Role Changes"
+msgstr ""
+
+#: includes/Settings.class.php:70
+msgid "Password is Reset"
+msgstr ""
+
+#: includes/Settings.class.php:71
+msgid "X Time Since Last Login"
+msgstr ""
+
+#: includes/Settings.class.php:74
+msgid "Post Published in Interest"
+msgstr ""
+
+#: includes/Settings.class.php:75
+msgid "New Comment after Commenting"
+msgstr ""
+
+#: includes/Settings.class.php:78
+msgid "X Time after Cart Abandoned"
+msgstr ""
+
+#: includes/Settings.class.php:79
+msgid "X Time after Purchase"
+msgstr ""
+
+#: includes/Settings.class.php:80
+msgid "Product Added"
+msgstr ""
+
+#: includes/Settings.class.php:81
+msgid "Product Purchased"
+msgstr ""
+
+#: includes/Settings.class.php:86
+msgid "Any Product"
+msgstr ""
+
+#: includes/Settings.class.php:199 includes/Settings.class.php:200
+#: ultimate-wp-mail.php:243 ultimate-wp-mail.php:321
+msgid "Settings"
+msgstr ""
+
+#: includes/Settings.class.php:212
+msgid "Basic"
+msgstr ""
+
+#: includes/Settings.class.php:221
+msgid "General"
+msgstr ""
+
+#: includes/Settings.class.php:232
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/Settings.class.php:233
+msgid ""
+"You can add custom CSS styles to your appointment booking page in the box "
+"above."
+msgstr ""
+
+#: includes/Settings.class.php:243
+msgid "Add Unsubscribe Link"
+msgstr ""
+
+#: includes/Settings.class.php:244
+msgid "Should an unsubscribe link be added to the bottom of your emails?"
+msgstr ""
+
+#: includes/Settings.class.php:254
+msgid "Unsubscribe Redirect URL"
+msgstr ""
+
+#: includes/Settings.class.php:255
+msgid "What URL should someone be redirected to when they unsubscribe?"
+msgstr ""
+
+#: includes/Settings.class.php:265
+msgid "Add Subscribe Checkbox"
+msgstr ""
+
+#: includes/Settings.class.php:266
+msgid ""
+"Should a subscribe checkbox be added to the bottom of WordPress registration "
+"forms and the edit profile page? (This can be used to email only those users "
+"who specifically sign up for emails)"
+msgstr ""
+
+#: includes/Settings.class.php:276
+msgid "Add Unsubscribe Checkbox"
+msgstr ""
+
+#: includes/Settings.class.php:277
+msgid ""
+"Should an unsubscribe checkbox be added to the bottom of WordPress "
+"registration forms and the edit profile page?"
+msgstr ""
+
+#: includes/Settings.class.php:287
+msgid "Track Opens"
+msgstr ""
+
+#: includes/Settings.class.php:288
+msgid "Should the number of users who open each email be tracked?"
+msgstr ""
+
+#: includes/Settings.class.php:298
+msgid "Track Clicks"
+msgstr ""
+
+#: includes/Settings.class.php:299
+msgid ""
+"Should the number of clicks and the which links have been clicked be tracked?"
+msgstr ""
+
+#: includes/Settings.class.php:309
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: includes/Settings.class.php:310
+msgid ""
+"Should automatic lists based on WooCommerce purchases be added to the plugin?"
+msgstr ""
+
+#: includes/Settings.class.php:320
+msgid "Listed in Interests"
+msgstr ""
+
+#: includes/Settings.class.php:321
+msgid ""
+"What interest options should be displayed by default when using the "
+"\"Subcribe to Interests\" shortcode or widget?"
+msgstr ""
+
+#: includes/Settings.class.php:324
+msgid "Ultimate WP Mail Categories"
+msgstr ""
+
+#: includes/Settings.class.php:336
+msgid "Display Post Interests"
+msgstr ""
+
+#: includes/Settings.class.php:337
+msgid ""
+"Should an interests sign-up box be added to all posts, with the specific "
+"categories of that post as options?<br/>NOTE: You need to make sure at least "
+"one box is checked for the previous option (Listed in Interests) in order "
+"for this to have anything in it."
+msgstr ""
+
+#: includes/Settings.class.php:339
+msgid "Before"
+msgstr ""
+
+#: includes/Settings.class.php:340
+msgid "After"
+msgstr ""
+
+#: includes/Settings.class.php:341
+msgid "None"
+msgstr ""
+
+#: includes/Settings.class.php:352
+msgid "Email \"From\" Name"
+msgstr ""
+
+#: includes/Settings.class.php:353
+msgid ""
+"Who should the emails be sent from? Leave blank to use the default \"From\" "
+"address for your site."
+msgstr ""
+
+#: includes/Settings.class.php:363
+msgid "Email \"From\" Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:364
+msgid ""
+"What email address should the emails be sent from? Leave blank to use the "
+"default \"From\" address for your site."
+msgstr ""
+
+#: includes/Settings.class.php:372 includes/Settings.class.php:381
+#: includes/Settings.class.php:394
+msgid "Send Events"
+msgstr ""
+
+#: includes/Settings.class.php:395
+msgid "&plus; ADD"
+msgstr ""
+
+#: includes/Settings.class.php:410
+msgid "Action Type"
+msgstr ""
+
+#: includes/Settings.class.php:415
+msgid "Include"
+msgstr ""
+
+#: includes/Settings.class.php:425
+msgid "Delay"
+msgstr ""
+
+#: includes/Settings.class.php:432
+msgid "Minute(s)"
+msgstr ""
+
+#: includes/Settings.class.php:433
+msgid "Hour(s)"
+msgstr ""
+
+#: includes/Settings.class.php:434
+msgid "Day(s)"
+msgstr ""
+
+#: includes/Settings.class.php:435
+msgid "Week(s)"
+msgstr ""
+
+#: includes/Settings.class.php:446
+msgid "Labelling"
+msgstr ""
+
+#: includes/Settings.class.php:455
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/Settings.class.php:488 views/View.class.php:125
+msgid ""
+"Log in to your account so that you can subscribe to topics you're interested "
+"in!"
+msgstr ""
+
+#: includes/Settings.class.php:499 views/View.class.php:126
+msgid ""
+"Select topics you're interested in below to receive emails when new items "
+"are posted!"
+msgstr ""
+
+#: includes/UserManager.class.php:37 includes/UserManager.class.php:87
+msgid "Subscribe to Email Updates"
+msgstr ""
+
+#: includes/UserManager.class.php:48 includes/UserManager.class.php:105
+msgid "Unsubscribe from Email Updates"
+msgstr ""
+
+#: includes/UserManager.class.php:162
+msgid "You have been successully unsubscribed."
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:115
+msgid "User Statistic"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:116
+msgid "User Statisticss"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:245
+#: includes/WP_List_Table.UserStatsTable.class.php:300
+msgid "All"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:246
+msgid "Today"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:247
+msgid "This Week"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:267
+msgid "Start Date:"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:268
+msgid "Start Date"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:269
+#: includes/WP_List_Table.UserStatsTable.class.php:274
+msgid "Start Time"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:272
+msgid "End Date:"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:273
+msgid "End Date"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:276
+msgid "Apply"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:278
+msgid "Clear Filter"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:375
+msgid "Username"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:377
+msgid "Emails Opened"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:379
+msgid "Last Opened Date"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:427
+msgid "View Details"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:520
+msgid "Reset Statistics"
+msgstr ""
+
+#: includes/WP_List_Table.UserStatsTable.class.php:677
+msgid "Only today's user statistics are being shown."
+msgstr ""
+
+#: includes/Widgets.class.php:25
+msgid "Email Interests Widget"
+msgstr ""
+
+#: includes/Widgets.class.php:26
+msgid "Insert a set of checkboxes with interests for emails"
+msgstr ""
+
+#: includes/Widgets.class.php:55
+msgid "Post Categories:"
+msgstr ""
+
+#: includes/Widgets.class.php:59
+msgid "Email Categories:"
+msgstr ""
+
+#: includes/Widgets.class.php:63
+msgid "WooCommerce Categories:"
+msgstr ""
+
+#: includes/template-functions.php:49
+msgid "Section name must be between 1 and 30 characters"
+msgstr ""
+
+#: includes/template-functions.php:70
+msgid "Custom element name must be between 1 and 40 characters"
+msgstr ""
+
+#: lib/simple-admin-pages/classes/AdminPage.class.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: lib/simple-admin-pages/classes/AdminPageSetting.FileUpload.class.php:46
+msgid "Current image:"
+msgstr ""
+
+#: lib/simple-admin-pages/classes/AdminPageSetting.FileUpload.class.php:59
+msgid "Upload Image"
+msgstr ""
+
+#: ultimate-wp-mail.php:243
+msgid "Head to the settings page for Ultimate WP Mail"
+msgstr ""
+
+#: ultimate-wp-mail.php:314
+msgid "MENU"
+msgstr ""
+
+#: ultimate-wp-mail.php:315
+msgid "Dashboard"
+msgstr ""
+
+#: ultimate-wp-mail.php:318
+msgid "Categories"
+msgstr ""
+
+#: ultimate-wp-mail.php:319
+msgid "Lists"
+msgstr ""
+
+#: ultimate-wp-mail.php:320
+msgid "Stats"
+msgstr ""
